@@ -10,7 +10,7 @@ Dashboard Development: Create interactive dashboards using visualization tools l
 
 Technologies Used:
 Programming Languages: SQL
-Database Management: MySQL, PostgreSQL
+Database Management: MySQL, 
 Business Intelligence Tools: Tableau, Power BI
 Version Control: Git, GitHub
 
