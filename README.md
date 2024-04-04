@@ -1,13 +1,9 @@
 # e-commerce
 Welcome to my E-commerce Data Analyst project! In this project, I delved into the rich world of e-commerce data to extract insights, identify trends, and drive actionable recommendations for business growth. Leveraging my skills in data analysis, statistical modeling, and visualization techniques, I explored various aspects of e-commerce operations to unlock valuable insights that empower decision-making processes.
-
 Project Goals:
 Data Exploration: Conduct comprehensive exploration of e-commerce datasets to understand the underlying patterns and trends.
-
 Sales Performance Analysis: Analyze sales data to identify top-performing products, customer segments, and geographical regions.
-
 Customer Behavior Analysis: Investigate customer behavior patterns such as purchasing habits, churn analysis, and customer lifetime value (CLV).
-
 Forecasting and Demand Planning: Implement time-series forecasting models to predict future sales volumes and optimize inventory management.
 
 Dashboard Development: Create interactive dashboards using visualization tools like Tableau or Power BI to communicate insights effectively.
